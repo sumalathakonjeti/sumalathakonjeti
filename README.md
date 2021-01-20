@@ -7,10 +7,24 @@
 |          Projects                       |
 | ----------------------------------------|
 |1. [Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject) |
-|2. [Airflow Tennis Tournament Data Pipeline](https://github.com/sumalathakonjeti/Tennis_data_Airflow_Project/blob/main/README.md) |
-|3. [ZipScrumForum ](https://github.com/sumalathakonjeti/ZipScrumForum) |
-|4. [Scientific Calulator](https://github.com/sumalathakonjeti/scicalc-group-coffee) |
+|2. https://github.com/sumalathakonjeti/Tennis_data_Airflow_Project/blob/main/README.md |
+|3. https://github.com/sumalathakonjeti/ZipScrumForum  |
 ------------------------------------------------
+
+[Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject) 
+
+#### Languages:                                                                                            
+• Airflow                                                                                                
+• AWS lightsail MySql                                                                                    
+• Pandas                                                                             
+• Matplotlib
+• Tableau                   
+• NLTK                  
+• Papermill             
+• PySpark 
+
+
+
 <!--
 **sumalathakonjeti/sumalathakonjeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
