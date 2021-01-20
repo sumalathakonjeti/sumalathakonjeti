@@ -31,6 +31,7 @@ Languages:
 • Papermill        
 • Matlablib
 • Seaborn             
+<img width="1419" alt="Screen Shot 2021-01-20 at 4 14 24 PM" src="https://user-images.githubusercontent.com/72820961/105246565-70e52780-5b41-11eb-8f1f-f628061b4109.png">
 
 
 
