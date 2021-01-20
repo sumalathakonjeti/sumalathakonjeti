@@ -11,9 +11,8 @@
 |3. https://github.com/sumalathakonjeti/ZipScrumForum  |
 ------------------------------------------------
 
-[Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject) 
-
-#### Languages:                                                                                            
+[Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject)                       
+ Languages:                                                                                                         
 • Airflow                                                                                                
 • AWS lightsail MySql                                                                                    
 • Pandas                                                                             
@@ -22,7 +21,7 @@
 • NLTK                  
 • Papermill             
 • PySpark 
-
+<img width="1022" alt="Screen Shot 2021-01-20 at 4 50 30 PM" src="https://user-images.githubusercontent.com/72820961/105245436-e0f2ae00-5b3f-11eb-945a-a226b07eb8bc.png">
 
 
 <!--
