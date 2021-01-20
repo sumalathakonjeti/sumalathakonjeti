@@ -6,7 +6,7 @@
 -------------------------------------------
 |          Projects                       |
 | ----------------------------------------|
-|1. https://github.com/sumalathakonjeti/ZCW-FinalProject |
+|1. [Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject) |
 |2. https://github.com/sumalathakonjeti/Tennis_data_Airflow_Project/blob/main/README.md |
 |3. https://github.com/sumalathakonjeti/ZipScrumForum |
 |4.https://github.com/sumalathakonjeti/scicalc-group-coffee |
