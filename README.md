@@ -7,8 +7,8 @@
 |          Projects                       |
 | ----------------------------------------|
 |1. [Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject) |
-|2. https://github.com/sumalathakonjeti/Tennis_data_Airflow_Project/blob/main/README.md |
-|3. https://github.com/sumalathakonjeti/ZipScrumForum  |
+|2. [Airflow Tennis Tournment Data Pipeline](https://github.com/sumalathakonjeti/Tennis_data_Airflow_Project/blob/main/README.md) |
+|3. [ZipScrumForun](https://github.com/sumalathakonjeti/ZipScrumForum ) |
 ------------------------------------------------
 
 [Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject)                       
@@ -22,6 +22,15 @@
 • Papermill             
 • PySpark 
 <img width="1022" alt="Screen Shot 2021-01-20 at 4 50 30 PM" src="https://user-images.githubusercontent.com/72820961/105245436-e0f2ae00-5b3f-11eb-945a-a226b07eb8bc.png">
+
+[Airflow Tennis Tournment Data Pipeline](https://github.com/sumalathakonjeti/Tennis_data_Airflow_Project/blob/main/README.md) 
+Languages:         
+• Pandas                
+• Jupyter Notebook           
+• Airflow        
+• Papermill        
+• Matlablib
+• Seaborn
 
 
 <!--
