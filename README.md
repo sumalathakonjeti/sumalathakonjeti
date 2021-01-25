@@ -35,9 +35,9 @@ Languages:
 
 [ZipScrumForun](https://github.com/sumalathakonjeti/ZipScrumForum )
 Languages :                   
-• Flask
-• HTML
-• SQL Alchemy
-• CSS
-• BootStrap 
-• Python
+• Flask                         
+• HTML                    
+• SQL Alchemy                   
+• CSS                       
+• BootStrap                
+• Python                 
