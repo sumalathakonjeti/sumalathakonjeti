@@ -40,4 +40,5 @@ Languages :
 • SQL Alchemy                   
 • CSS                       
 • BootStrap                
-• Python                 
+• Python                     
+<img width="1336" alt="Screen Shot 2021-01-18 at 9 49 17 AM" src="https://user-images.githubusercontent.com/72820961/105721670-d5fa9d80-5ef2-11eb-810a-6fc0358b7ac3.png">
