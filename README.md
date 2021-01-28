@@ -12,7 +12,8 @@
 ------------------------------------------------
 
 [Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/sumalathakonjeti/ZCW-FinalProject)                       
- Languages:                                                                                                         
+ 
+ Languages:
 • Airflow                                                                                                
 • AWS lightsail MySql                                                                                    
 • Pandas                                                                             
@@ -24,7 +25,8 @@
 <img width="1022" alt="Screen Shot 2021-01-20 at 4 50 30 PM" src="https://user-images.githubusercontent.com/72820961/105245436-e0f2ae00-5b3f-11eb-945a-a226b07eb8bc.png">
 
 [Airflow Tennis Tournment Data Pipeline](https://github.com/sumalathakonjeti/Tennis_data_Airflow_Project/blob/main/README.md)             
-Languages:         
+
+Languages:
 • Pandas                
 • Jupyter Notebook           
 • Airflow        
@@ -34,6 +36,7 @@ Languages:
 <img width="1419" alt="Screen Shot 2021-01-20 at 4 14 24 PM" src="https://user-images.githubusercontent.com/72820961/105246565-70e52780-5b41-11eb-8f1f-f628061b4109.png">
 
 [ZipScrumForun](https://github.com/sumalathakonjeti/ZipScrumForum )                 
+
 Languages :                   
 • Flask                         
 • HTML                    
